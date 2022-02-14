@@ -15,3 +15,6 @@ the walls with the snake or bit its own tail.
 
 In snake.py the snake is been created. Next to this, its movements are congigured as well as the extension of its tail in case the snake eats the food. 
 
+### Second version
+
+In the newest version, an extra feature is added thats keeps track of the user's all time high score. The code is located in the python files ending on v2. 
