@@ -3,7 +3,7 @@
 ### food.py
 
 In food.py, the 'food' for the snake will be created and will be given a random location in the play field. Also, a refresher method is developed in order to give
-the food a new location, every time it has been eaten by the snake.
+the food a new location every time it has been eaten by the snake.
 
 ### score.py
 
@@ -17,4 +17,4 @@ In snake.py the snake is been created. Next to this, its movements are congigure
 
 ### Second version
 
-In the newest version, an extra feature is added thats keeps track of the user's all time high score. The code is located in the python files ending on v2. 
+In the newest version, an extra feature is added that keeps track of the user's all time high score. The code is located in the python files ending on v2. 
